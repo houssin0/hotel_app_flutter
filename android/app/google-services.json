@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "725869018849",
+    "project_id": "hotelbyh",
+    "storage_bucket": "hotelbyh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725869018849:android:2803d95c3e10c40af8c1a0",
+        "android_client_info": {
+          "package_name": "com.mycompany.hotelbyh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725869018849-1j3uf0nibfq94spdepe8n8b50m321a8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.hotelbyh",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "725869018849-m9sv3cpja16egesrgl9j2lm4jlc2q7s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGi0uJo6hZTiMJeoKNejw8Nsc1ro2uKiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725869018849-m9sv3cpja16egesrgl9j2lm4jlc2q7s8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725869018849-pgheqkne1enrh8mkm8vg58cmh7qd1q90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.hotelbyh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
